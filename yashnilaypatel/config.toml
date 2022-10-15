@@ -2,7 +2,7 @@ baseURL = 'http://yashnilaypatel.github.io/'
 languageCode = 'en-us'
 theme = "port-hugo"
 title = 'Yash Patel'
-publishdir = "docs"
+publishdir = "docs/yashnilaypatel.github.io"
 
 ############################# Plugins ##############################
 
